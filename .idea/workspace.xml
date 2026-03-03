@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1cf2925-b9b9-4fde-8638-04ad196f99cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sitema de caixa eletronico/META-INF/Sitema de caixa eletronico.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Sitema de caixa eletronico/MainKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/models/ContaBancaria.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/models/Usuario.kt" afterDir="false" />
-    </list>
+    <list default="true" id="b1cf2925-b9b9-4fde-8638-04ad196f99cc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
